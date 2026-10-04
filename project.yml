@@ -1,0 +1,15 @@
+name: SmartHealth
+options:
+  bundleIdPrefix: com.smarthealth
+targets:
+  SmartHealth:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources: [SmartHealth]
+    settings:
+      PRODUCT_BUNDLE_IDENTIFIER: com.smarthealth.app
+      SWIFT_VERSION: 5.0
+      GENERATE_INFOPLIST_FILE: YES
+      INFOPLIST_KEY_CFBundleDisplayName: "舒心"
+      INFOPLIST_KEY_NSHumanReadableCopyright: ""
