@@ -28,13 +28,6 @@ open SmartHealth.xcodeproj
 
 在 Xcode 中选择 iPhone 模拟器运行。也可将 `SmartHealthApp.swift`、`Models.swift`、`Theme.swift`、`RootView.swift`、`SecondaryViews.swift` 加入一个 iOS 17+ SwiftUI App target。
 
-## 演示讲解（约 2 分钟）
-
-1. 从首页说明产品解决的问题：健康数据很多，但用户需要的是低负担、可行动的下一步。
-2. 浏览睡眠、步数、心率卡片和健康分趋势，展示多源数据的统一入口。
-3. 打开 AI 洞察，说明建议以趋势和日常行动为中心，并展示重新分析的反馈。
-4. 在健康数据页添加一条手动记录，说明自动同步和自主补充并行。
-5. 在设置页切换本地模型档位，说明产品预留了按设备性能适配的端侧推理接口。
 
 ## 健康建议边界
 
