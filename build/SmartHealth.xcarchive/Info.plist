@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/SmartHealth.app</string>
+		<key>Architectures</key>
+		<array>
+			<string>arm64</string>
+		</array>
+		<key>CFBundleIdentifier</key>
+		<string>com.smarthealth.app</string>
+		<key>SigningIdentity</key>
+		<string></string>
+		<key>Team</key>
+		<string></string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2026-10-04T15:16:15Z</date>
+	<key>Name</key>
+	<string>SmartHealth</string>
+	<key>SchemeName</key>
+	<string>SmartHealth</string>
+</dict>
+</plist>

@@ -1,0 +1,1 @@
+{"id":"smarthealth-fast","format":"smarthealth-rule-v1","tier":"fast","title":"快速健康摘要","latency":"约 0.5 秒","prompt":"优先给出一条简洁、可执行的生活方式建议。"}

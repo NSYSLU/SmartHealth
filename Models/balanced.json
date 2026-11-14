@@ -1,0 +1,1 @@
+{"id":"smarthealth-balanced","format":"smarthealth-rule-v1","tier":"balanced","title":"平衡健康分析","latency":"约 1.2 秒","prompt":"结合睡眠、活动和心率，给出一条温和、具体的每日建议。"}

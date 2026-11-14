@@ -1,0 +1,1 @@
+{"id":"smarthealth-deep","format":"smarthealth-rule-v1","tier":"deep","title":"深度趋势分析","latency":"约 3 秒","prompt":"结合长期趋势和今日变化，给出一条有上下文的健康建议。"}
